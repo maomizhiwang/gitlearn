@@ -1,3 +1,4 @@
 添加文件 git add 文件名
 上传文件 git commit -m 注释
 上传文件到远程库 git push origin master
+克隆远程库 git clone git@github.com:你的id/你的库名字.git //克隆后的文件在你 git bash所在目录下
