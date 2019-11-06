@@ -9,3 +9,5 @@ git init 初始化仓库
 添加分支 git branch 分支名字
 切换分支 git checkout 分支名字
 将上述操作合并操作 git checkou -b 分支名
+
+这个是master下修改的内容
