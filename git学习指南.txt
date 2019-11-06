@@ -1,3 +1,6 @@
+新设备初始化：git --global user.name 你的githubid
+	       git --global user.email 你的邮箱
+git init 初始化仓库
 添加文件 git add 文件名
 上传文件 git commit -m 注释
 上传文件到远程库 git push origin master
